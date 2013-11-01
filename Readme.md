@@ -1,4 +1,4 @@
-A simple script to simplify using array jobs with the SunGrid cluster system.
+A simple script to simplify using array jobs with the SGE cluster system.
 
 Example usage:
 ==============
