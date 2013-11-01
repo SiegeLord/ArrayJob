@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# This file is released into the public domain
+
 queue=
 email=
 
